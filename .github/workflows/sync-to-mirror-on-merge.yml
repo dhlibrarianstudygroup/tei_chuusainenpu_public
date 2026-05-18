@@ -1,0 +1,46 @@
+name: Sync XML files to mirror repo on main update
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source repo
+        uses: actions/checkout@v4
+
+      - name: Checkout mirror repo
+        uses: actions/checkout@v4
+        with:
+          repository: yuna-murata/chusai_web_mirror
+          token: ${{ secrets.PERSONAL_WRITE_PAT }}
+          path: mirror
+
+      - name: Copy selected XML files into mirror repo
+        run: |
+          cp shibuechusai_aozora.xml mirror/shibuechusai_aozora.xml
+          cp tei_chuusainenpu.xml mirror/tei_chuusainenpu.xml
+
+      - name: Commit and push only if changed
+        run: |
+          cd mirror
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add shibuechusai_aozora.xml tei_chuusainenpu.xml
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "Sync XML files from org repo after main update"
+          git push
