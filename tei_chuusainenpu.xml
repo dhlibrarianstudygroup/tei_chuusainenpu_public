@@ -311,7 +311,7 @@
         <lb/><note style="#m3" hand="#ougai"><date when="1812-10-15" when-custom="文化9年9月11日">九月十一日</date><persName corresp="#渋江允成">允成</persName>母<persName corresp="渋江早太">渋江早太</persName>祖母死ニ付忌引、<date when="1812-10-23" when-custom="文化9年9月19日">十九日</date>忌御免、日記</note>
         <lb/><head>八歳</head>       
         <lb/><p xml:id="note05_01" style="#m1"><date when="1812-09-03" when-custom="文化9年7月28日"><anchor xml:id="cn05_01_s"/>七月二十八日</date>、父<persName corresp="#渋江允成">允成</persName>、<add place="right">藩主より</add>一粒金丹製法を傳授せ
-        <lb/>らる、</p><anchor xml:id="cn05_01_e"/>
+        <lb/>らる、</p>
         <note style="color:red" corresp="#note05_01" place="margin">是れハ、
         <lb/>文化十一
         <lb/>年の
@@ -324,7 +324,7 @@
         <lb/>二朱にて廣く全國へ配布す、
         <persName corresp="#渋江保">保</persName>の少時<del><gap reason="illegible" quantity="5" unit="character"/></del><del>目
         <lb/>撃</del><add place="right">実験</add>する所に拠るに、毎月四五百包づゝ需要
-        <lb/>者ありたり、）</p></div>
+        <lb/>者ありたり、）<anchor xml:id="cn05_01_e"/></p></div>
         
         <div><lb/><head style="#m3"><date when="1813" when-custom="文化10年">文化十年癸酉</date></head>
         <lb/><head>九歳</head>
