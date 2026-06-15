@@ -3,6 +3,6 @@
 ## 利活用事例
 『抽斎年譜』の特徴や『渋江抽斎』との対応を可視化した[TEI抽斎年譜ビューワ](https://dhlibrarianstudygroup.github.io/website/docs/tei_chuusainenpu/)を公開しています。
 ## 公開しているファイル
-tei_chuusainenpu.xml：東京大学総合図書館所蔵『抽斎年譜』のTEI/XMLファイル
-shibuechusai_aozora.xml：青空文庫で公開されている森鷗外『渋江抽斎』のTEI/XMLファイル
-guideline.md：マークアップ方針
+* tei_chuusainenpu.xml：東京大学総合図書館所蔵『抽斎年譜』のTEI/XMLファイル
+* shibuechusai_aozora.xml：青空文庫で公開されている森鷗外『渋江抽斎』のTEI/XMLファイル
+* guideline.md：マークアップ方針
