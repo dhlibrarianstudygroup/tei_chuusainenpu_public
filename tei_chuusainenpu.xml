@@ -371,8 +371,8 @@
       <head>十二歳</head></div>
          <div><head style="#m3"><date when="1817" when-custom="文化14年">文化十四年丁丑</date></head>
       <head style="#m3">十三歳</head>
-            <p xml:id="note07_01" style="#m1">今茲<persName corresp="#森立之">森立之</persName>。<persName corresp="#渋江抽斎">抽斎</persName>の門に入る</p><note corresp="#note07_01" type="割注">「<persName corresp="#渋江抽斎">先生</persName>が十三歳。<persName corresp="#森立之">弟<milestone unit="wbr"/>子</persName>が十一歳なり<lb/>
-            き」とハ後年の<milestone unit="wbr"/>一口話なり、</note></div>
+            <p xml:id="note07_01" style="#m1"><anchor xml:id="cn07_01_s"/>今茲<persName corresp="#森立之">森立之</persName>。<persName corresp="#渋江抽斎">抽斎</persName>の門に入る</p><note corresp="#note07_01" type="割注">「<persName corresp="#渋江抽斎">先生</persName>が十三歳。<persName corresp="#森立之">弟<milestone unit="wbr"/>子</persName>が十一歳なり<lb/>
+            き」とハ後年の<milestone unit="wbr"/>一口話なり、</note><anchor xml:id="cn07_01_e"/></div>
          <div><head style="#m3"><date when="1818" when-custom="文政1年">文政元年戊寅</date></head>
       <head style="#m3">十四歳</head></div>
 <div>         <head style="#m3"><date when="1819" when-custom="文政2年">文政二年己卯</date></head>
@@ -563,10 +563,6 @@
             <lb/><note style="color:red;#m12">（<date when="1836-11-22" when-custom="天保7年10月14日">十月十四日</date>、師、<persName corresp="#池田京水">池田
             <lb/>京水</persName>没す）</note></p>
         </div>
-        <div>
-            <head style="#m3"><date when="1836" when-custom="#天保8年">天保八年丁酉</date></head>
-            <head>三十三歳</head>
-         </div>
         <div>
             <head style="#m3"><date when="1836" when-custom="#天保8年">天保八年丁酉</date></head>
             <head>三十三歳</head>
