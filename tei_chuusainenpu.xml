@@ -371,8 +371,8 @@
       <head>十二歳</head></div>
          <div><head style="#m3"><date when="1817" when-custom="文化14年">文化十四年丁丑</date></head>
       <head style="#m3">十三歳</head>
-            <p xml:id="note07_01" style="#m1">今茲<persName corresp="#森立之">森立之</persName>。<persName corresp="#渋江抽斎">抽斎</persName>の門に入る</p><note corresp="#note07_01" type="割注">「<persName corresp="#渋江抽斎">先生</persName>が十三歳。<persName corresp="#森立之">弟<milestone unit="wbr"/>子</persName>が十一歳なり<lb/>
-            き」とハ後年の<milestone unit="wbr"/>一口話なり、</note></div>
+            <p xml:id="note07_01" style="#m1"><anchor xml:id="cn07_01_s"/>今茲<persName corresp="#森立之">森立之</persName>。<persName corresp="#渋江抽斎">抽斎</persName>の門に入る</p><note corresp="#note07_01" type="割注">「<persName corresp="#渋江抽斎">先生</persName>が十三歳。<persName corresp="#森立之">弟<milestone unit="wbr"/>子</persName>が十一歳なり<lb/>
+            き」とハ後年の<milestone unit="wbr"/>一口話なり、</note><anchor xml:id="cn07_01_e"/></div>
          <div><head style="#m3"><date when="1818" when-custom="文政1年">文政元年戊寅</date></head>
       <head style="#m3">十四歳</head></div>
 <div>         <head style="#m3"><date when="1819" when-custom="文政2年">文政二年己卯</date></head>
@@ -460,7 +460,7 @@
 <lb/><note style="color:red" rend="割注">享年五<milestone unit="wbr"/>十五）</note></note><anchor xml:id="cn09_01_e"/></p>
 
 <pb n="15" corresp="#zone_017" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/6987/0,0,2128,3308/full/0/default.jpg"/>
-<p><date when="1829-11-11" when-custom="文政12年11月11日">十一月十一日</date>、妻<persName corresp="#尾島定子">尾島氏<note rend="割注">定子</note></persName>離縁<note place="right"><add hand="#ougai"><persName corresp="#岩田百合">岩田氏百合</persName>カ</add></note>
+<p><date when="1829-11-11" when-custom="文政12年11月11日">十一月十一日</date>、妻<persName corresp="#尾島定">尾島氏<note rend="割注">定子</note></persName>離縁<note place="right"><add hand="#ougai"><persName corresp="#尾島定子">岩田氏百合</persName>カ</add></note>
 <lb/><date when="1829-12-15" when-custom="文政12年12月15日">十二月十五日</date><note place="right" hand="#ougai"><anchor xml:id="cn09_02_s"/><date when="1829-11-12" when-custom="文政12年11月12日">十一月十二日</date>（日記）</note>、同藩士<note rend="割注">留守居役</note>比良野文藏の女<del>徳</del><persName corresp="#比良野威能"><ruby><rb>威</rb><rt>い</rt></ruby>
 <lb/><ruby><rb>能</rb><rt>の</rt></ruby>子</persName><note rend="割注">二十四歳</note>を娶る。<anchor xml:id="cn09_02_e"/></p></div>
 <div><head style="#m3"><date when="1830" when-custom="天保1年">天保元年庚寅</date></head>
@@ -563,10 +563,6 @@
             <lb/><note style="color:red;#m12">（<date when="1836-11-22" when-custom="天保7年10月14日">十月十四日</date>、師、<persName corresp="#池田京水">池田
             <lb/>京水</persName>没す）</note></p>
         </div>
-        <div>
-            <head style="#m3"><date when="1836" when-custom="#天保8年">天保八年丁酉</date></head>
-            <head>三十三歳</head>
-         </div>
         <div>
             <head style="#m3"><date when="1836" when-custom="#天保8年">天保八年丁酉</date></head>
             <head>三十三歳</head>
